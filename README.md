@@ -1,2 +1,2 @@
 # leabugaut_pgl_project
-Python Git and Lunux end of semester project 
+Python Git and Linux end of semester project 
